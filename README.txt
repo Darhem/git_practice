@@ -14,3 +14,5 @@ I'm moving up on this thing! it's just a metter of time to master it!
 
 
 this is quite exciting, isn't it?
+
+Today, I decided to continue on my codecadmy course so here we are, and also learn aboyt the branch concept!
